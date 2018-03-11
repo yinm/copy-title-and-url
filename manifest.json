@@ -2,14 +2,20 @@
   "manifest_version": 2,
   "name": "copy-title-and-url",
   "version": "0.1",
-
   "browser_action": {
     "default_icon": {
       "16": "icon.png"
     },
     "default_popup": "popup.html"
   },
-
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+C",
+        "mac": "MacCtrl+Shift+C"
+      }
+    }
+  },
   "permissions": [
     "tabs"
   ]
