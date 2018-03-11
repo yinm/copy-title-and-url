@@ -1,1 +1,1 @@
-# copy-title-and-url
+Inspired by [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown)
