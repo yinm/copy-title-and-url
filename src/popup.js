@@ -7,4 +7,4 @@ chrome.tabs.query({active: true, lastFocusedWindow: true}, (tabs) => {
   result.value = `[${tab.title}](${tab.url})`
   result.select()
   document.execCommand('copy')
-});
+})
