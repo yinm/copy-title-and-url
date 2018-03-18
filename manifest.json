@@ -11,8 +11,8 @@
   "commands": {
     "_execute_browser_action": {
       "suggested_key": {
-        "default": "Ctrl+Shift+C",
-        "mac": "MacCtrl+Shift+C"
+        "default": "Ctrl+Shift+N",
+        "mac": "MacCtrl+Shift+N"
       }
     }
   },
